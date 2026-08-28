@@ -2,7 +2,7 @@
 
 A practical, editable command reference for developers, cloud architects, DevOps engineers, SREs, platform engineers and other technical practitioners.
 
-The baseline commands were transcribed from the screenshots in the supplied Word document. The repository then expands those sections with commonly needed commands for modern Linux administration, networking, troubleshooting, containers, Kubernetes, automation, CI/CD, cloud CLIs, observability, Git, GitHub CLI, Anthropic Claude / Claude Code and developer tooling.
+The baseline commands were transcribed from the screenshots I posted a few days ago on my WhatsApp Status. The repository then expands those sections with commonly needed commands for modern Linux administration, networking, troubleshooting, containers, Kubernetes, automation, CI/CD, cloud CLIs, observability, Git, GitHub CLI, Anthropic Claude / Claude Code and developer tooling.
 
 ## How to use this repository
 
