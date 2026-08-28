@@ -106,4 +106,4 @@ The commands in this repository are provided for informational purposes only. Al
 
 ## License
 
-Choose a license that matches how you want others to reuse and contribute to the repository (for example, MIT or Apache-2.0).
+MIT or Apache-2.0
