@@ -2,7 +2,7 @@
 
 A practical, editable command reference for developers, cloud architects, DevOps engineers, SREs, platform engineers and other technical practitioners.
 
-The baseline commands were transcribed from the screenshots in the supplied Word document. The repository then expands those sections with commonly needed commands for modern Linux administration, networking, troubleshooting, containers, Kubernetes, automation, CI/CD, cloud CLIs, observability, Git, GitHub CLI and developer tooling.
+The baseline commands were transcribed from the screenshots in the supplied Word document. The repository then expands those sections with commonly needed commands for modern Linux administration, networking, troubleshooting, containers, Kubernetes, automation, CI/CD, cloud CLIs, observability, Git, GitHub CLI, Anthropic Claude / Claude Code and developer tooling.
 
 ## How to use this repository
 
@@ -48,11 +48,11 @@ The baseline commands were transcribed from the screenshots in the supplied Word
 | 29 | GitHub CLI | [`commands/github-cli-commands.md`](commands/github-cli-commands.md) |
 | 30 | Python and Virtual Environments | [`commands/python-virtual-environment-commands.md`](commands/python-virtual-environment-commands.md) |
 | 31 | Node.js and npm | [`commands/nodejs-npm-commands.md`](commands/nodejs-npm-commands.md) |
+| 32 | Anthropic Claude / Claude Code | [`commands/anthropic-claude-commands.md`](commands/anthropic-claude-commands.md) |
 
 ## Safety conventions
 
-- **Source** means the item came from the supplied screenshot-based document.
-- **Added** means it was added to make the compendium more complete and useful.
+- The repository combines commands transcribed from the supplied screenshot-based document with carefully selected additions for practical engineering use.
 - Commands that can delete data, overwrite disks, change firewall rules, destroy infrastructure, or alter permissions include caution notes.
 - Do not paste secrets, access tokens, passwords, private keys or production credentials directly into shell history.
 - For cloud and Kubernetes commands, confirm the active account/subscription/project/context before making changes.
@@ -79,6 +79,9 @@ az account show -o table
 
 # Google Cloud project
 gcloud config get-value project
+
+# Claude Code authentication
+claude auth status --text
 ```
 
 ## Contributing
