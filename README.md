@@ -100,6 +100,10 @@ git push -u origin docs/add-command-category
 
 Most operating-system commands target Linux/POSIX shells. Distribution-specific package-management sections include Debian/Ubuntu, Fedora/RHEL, Arch, openSUSE and Homebrew examples. Cloud, Kubernetes and developer-tool commands require the corresponding CLI/tool to be installed and authenticated.
 
+## Dsiclaimer 
+
+The commands in this repository are provided for informational purposes only. Always test them in a safe, non-production environment before use. Imoh Etuk assumes no responsibility for data loss, outages, system damage, or other consequences resulting from their use.
+
 ## License
 
 Choose a license that matches how you want others to reuse and contribute to the repository (for example, MIT or Apache-2.0).
