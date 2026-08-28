@@ -10,7 +10,6 @@ The baseline commands were transcribed from the screenshots in the supplied Word
 - Use repository search to find a command, binary, flag or workflow.
 - Treat examples as templates: replace placeholders such as `HOST`, `USER`, `FILE`, `RG`, `CLUSTER` and `PACKAGE`.
 - Prefer documented, non-destructive inspection commands before write/delete operations.
-- Some source commands are intentionally retained as **legacy** references (`ifconfig`, `netstat`, `init`, `docker-compose`, etc.); modern alternatives are noted beside them.
 
 ## Command categories
 
