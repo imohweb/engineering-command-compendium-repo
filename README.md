@@ -51,7 +51,7 @@ The baseline commands were transcribed from the screenshots in the supplied Word
 
 ## Safety conventions
 
-- The repository combines commands transcribed from the supplied screenshot-based document with carefully selected additions for practical engineering use.
+- The repository combines commands curated from my day-to-day work with carefully selected additions for practical engineering use.
 - Commands that can delete data, overwrite disks, change firewall rules, destroy infrastructure, or alter permissions include caution notes.
 - Do not paste secrets, access tokens, passwords, private keys or production credentials directly into shell history.
 - For cloud and Kubernetes commands, confirm the active account/subscription/project/context before making changes.
