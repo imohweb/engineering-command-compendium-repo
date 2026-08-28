@@ -106,4 +106,4 @@ The commands in this repository are provided for informational purposes only. Al
 
 ## License
 
-MIT or Apache-2.0
+MIT License
